@@ -15,9 +15,10 @@ My name is Jack, I'm 16yo and want to collaborate with the programming community
 
 ---
 
-#### Social Media
+### Social Media
 *You can find me here too!*
-<img src="http://www.w3.org/2000/svg" width="25"/> [Instagram](https://www.instagram.com/jack.abobora/)
+
+<img src="https://www.svgrepo.com/show/13639/instagram.svg" width="25"/> [Instagram](https://www.instagram.com/jack.abobora/)
           
 
 <!--
