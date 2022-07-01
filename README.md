@@ -1,4 +1,4 @@
-!(https://giphy.com/gifs/NaJBTlPINYNcFmPLrP)
+![](https://giphy.com/gifs/NaJBTlPINYNcFmPLrP)
 
 <!--
 **User7558/User7558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
