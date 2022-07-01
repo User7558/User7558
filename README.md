@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/NaJBTlPINYNcFmPLrP/giphy.gif)
 
 ## Languages
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)Pyhon 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>Python 
 
 <!--
 **User7558/User7558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
