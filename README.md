@@ -1,5 +1,3 @@
-![introduction](https://user-images.githubusercontent.com/82788197/184974473-6d94c007-906e-4a32-bcb8-0a380665e1d6.gif)
-
 You can call me _User7558_, I'm 16yo and want to collaborate with the programming community learning and helping others to learn!      
 
 
