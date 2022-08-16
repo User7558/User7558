@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/NaJBTlPINYNcFmPLrP/giphy.gif)
+
 
 My name is Jack, I'm 16yo and want to collaborate with the programming community learning more and more to help people as much as I can!
 
