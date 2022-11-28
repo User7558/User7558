@@ -1,4 +1,4 @@
-You can call me _User7558_, I'm 16yo and want to collaborate with the programming community learning and helping others to learn!      
+Heya! I'm _User7558_, I'm 16yo and want to collaborate with the programming community learning and helping others to learn!      
 
 
 ## Things...  
