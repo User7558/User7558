@@ -9,8 +9,6 @@ Heya! I'm _User7558_, I'm 16yo and want to collaborate with the programming comm
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS3
 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="25"/> Arduino
-
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux
 
 * Batch Scripts  
