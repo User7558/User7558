@@ -1,4 +1,4 @@
-You can call me _User7558_, I'm 16yo and want to collaborate with the programming community learning and helping others to learn!      
+Heya! I'm _User7558_, I'm 16yo and want to collaborate with the programming community learning and helping others to learn!      
 
 
 ## Things I'm learning:  
@@ -6,8 +6,6 @@ You can call me _User7558_, I'm 16yo and want to collaborate with the programmin
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python 
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS3
-
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="25"/> Arduino
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux
 
