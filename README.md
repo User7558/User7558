@@ -1,9 +1,7 @@
 You can call me _User7558_, I'm 16yo and want to collaborate with the programming community learning and helping others to learn!      
 
 
-## Things...  
-
-*I'm currently learning:*
+## Things I'm learning:  
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python 
 
@@ -13,15 +11,11 @@ You can call me _User7558_, I'm 16yo and want to collaborate with the programmin
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux
 
-* Batch Scripts  
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML5 
 
-    
-*I'm mastering:*  
-
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML5
 ---
 
-### Social Media
+## Social Media
 *You can find me here too!*
 
 * [Instagram](https://www.instagram.com/jack.abobora/)
