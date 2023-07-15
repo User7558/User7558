@@ -9,7 +9,7 @@ Heya, I'm User7558!
 <h4 align="center">
 <div> 
   <a href="https://gitlab.com/User7558" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" target="_blank"></a> 
+  <a href="https://referral.hackthebox.com/mzw0Zez" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" target="_blank"></a> 
    <a href="https://www.instagram.com/user7558_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-luiza-medina-fonseca-5420a2242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://tryhackme.com/p/User7558" target="_blank"><img src="https://img.shields.io/badge/tryhackme-1C2538?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank"></a>
