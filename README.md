@@ -19,13 +19,13 @@ Heya, I'm User7558!
 
 Loving technology since a kid, I like to study a little about everything!
 
-I love robotics too, so I will start to post my projects soon, stay tuned if you want to see it ;)
+At the moment studying Computer Science ^^
 
 ---
 
 ### My most used languages are...
 <div style="display: inline_block"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
