@@ -22,7 +22,7 @@ At the moment studying Computer Science ^^
 
 ---
 
-### My most used languages are...
+### I mainly work with this ones...
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
