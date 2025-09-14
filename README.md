@@ -51,12 +51,6 @@ Looking to collaborate with cybersecurity python and C projects!
       </a>
       <br>markdown
     </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/html.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML
-    </td>
   </tr>
 </table>
 
