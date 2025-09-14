@@ -161,6 +161,4 @@ Looking to collaborate with cybersecurity python and C projects! You can reach m
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=User7558&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=User7558&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-
 ***Learning new technologies everyday to become better than my past self.***
