@@ -19,7 +19,7 @@ I'm a CyberSecurity Enthusiast, currently pursuing higher education in **Compute
 
 With a strong background in **programming** and **ethical hacking**, I'm learning and specializing in testing and evaluating the security of a software, hardware or company, so the world can be a more secure place for everybody.
 
-Looking to collaborate with cybersecurity python and C projects! You can reach me by my LinkedIn.
+Looking to collaborate with cybersecurity python and C projects!
 
 ---
 <h2>Dev-Hub</h2>
