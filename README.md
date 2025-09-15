@@ -127,7 +127,7 @@ Looking to collaborate with cybersecurity python and C projects!
       <a href="#">
         <img src="img/shark.png" width="48" height="48" alt="shark" />
       </a>
-      <br>wiershark
+      <br>wireshark
     </td>
     <td align="center" width="96">
       <a href="#">
