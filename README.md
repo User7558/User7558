@@ -17,21 +17,19 @@ Heya, I'm User7558!
 
 I'm a CyberSecurity Enthusiast, currently pursuing higher education in **Computer Science** under **IFSP**, Brazil. 
 
-With a strong background in **programming** and **ethical hacking**, I'm learning and specializing in testing and evaluating the security of a software, hardware or company, so the world can be a more secure place for everybody.
-
-Looking to collaborate with cybersecurity python and C projects!
+I have a strong background in **programming** and **networking**, and looking forward to collaborate with my peers in computer science to make the world a better place for everybody!
 
 ---
-<h2>Dev-Hub</h2>
+<h2>What I know/do</h2>
 
 >Programming languages
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bash.png" width="48" height="48" alt="#" />
+        <img src="./img/java-logo.png" width="48" height="48" alt="#" />
       </a>
-      <br>Bash
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -41,15 +39,15 @@ Looking to collaborate with cybersecurity python and C projects!
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c.png" width="48" height="48" alt="c" />
+        <img src="./img/c++-logo.png" width="48" height="48" alt="c" />
       </a>
-      <br>C
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/m.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/postgresql.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>markdown
+      <br>PostgreSQL
     </td>
   </tr>
 </table>
@@ -95,9 +93,9 @@ Looking to collaborate with cybersecurity python and C projects!
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/arch.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/fedora.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>ARCH
+      <br>Fedora
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -137,9 +135,9 @@ Looking to collaborate with cybersecurity python and C projects!
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/sublime.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/intellij.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Sublime
+      <br>Intellij
     </td>
     </tr>
 </table>
