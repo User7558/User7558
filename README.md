@@ -20,7 +20,7 @@ I'm a CyberSecurity Enthusiast, currently pursuing higher education in **Compute
 I have a strong background in **programming** and **networking**, and looking forward to collaborate with my peers in computer science to make the world a better place for everybody!
 
 ---
-<h2>What I know/do</h2>
+<h2>About me</h2>
 
 >Programming languages
 <table>
