@@ -26,7 +26,7 @@ I have a strong background in **programming** and **networking**, and looking fo
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/java-logo.png" width="48" height="48" alt="#" />
+        <img src="./img/java-logo.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
@@ -38,15 +38,9 @@ I have a strong background in **programming** and **networking**, and looking fo
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c++-logo.png" width="48" height="48" alt="c" />
+        <img src="./img/c++-logo.png" width="48" height="48" alt="c++" />
       </a>
       <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/postgresql.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>PostgreSQL
     </td>
   </tr>
 </table>
@@ -56,16 +50,9 @@ I have a strong background in **programming** and **networking**, and looking fo
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/ardoino.png" width="48" height="48" alt="C#" />
+        <img src="./img/arduino.png" width="48" height="48" alt="Arduino IDE" />
       </a>
       <br>Arduino
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/wordpress.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Wordpress
-    </td>
     </tr>
 </table>
 
@@ -74,33 +61,27 @@ I have a strong background in **programming** and **networking**, and looking fo
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/windo.png" width="48" height="48" alt="C#" />
+        <img src="./img/windo.png" width="48" height="48" alt="Windows user and server" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="img/opensuse.png" width="48" height="48" alt="Python" />
+        <img src="img/opensuse.png" width="48" height="48" alt="OpenSUSE" />
       </a>
       <br>OpenSuse
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/kali.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/kali.png" width="48" height="48" alt="Kali linux" />
       </a>
       <br>kali
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/fedora.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/fedora.png" width="48" height="48" alt="Fedora" />
       </a>
       <br>Fedora
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/ando.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>android
     </td>
     </tr>
 </table>
@@ -110,9 +91,9 @@ I have a strong background in **programming** and **networking**, and looking fo
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/nmap.png" width="48" height="48" alt="C#" />
+        <img src="./img/nmap.png" width="48" height="48" alt="Nmap" />
       </a>
-      <br>nmap
+      <br>Nmap
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -122,21 +103,27 @@ I have a strong background in **programming** and **networking**, and looking fo
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="img/shark.png" width="48" height="48" alt="shark" />
+        <img src="img/shark.png" width="48" height="48" alt="wireshark" />
       </a>
-      <br>wireshark
+      <br>Wireshark
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/vs.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/vs.png" width="48" height="48" alt="VS Code" />
       </a>
       <br>Visual Studio
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/intellij.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/NetBeans.svg" width="48" height="48" alt="NetBeans" />
       </a>
-      <br>Intellij
+      <br>NetBeans
+    </td>
+        <td align="center" width="96">
+      <a href="#">
+        <img src="./img/postgresql.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>PostgreSQL
     </td>
     </tr>
 </table>
